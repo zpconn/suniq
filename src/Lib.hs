@@ -8,8 +8,6 @@ import Control.Monad.Trans.State.Strict
 
 import qualified Data.HashSet as HS
 
-import Data.List (intercalate)
-
 import Pipes
 import qualified Pipes.Prelude as P
 
