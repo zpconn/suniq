@@ -5,3 +5,5 @@ suniq ("streaming uniq") is a simple Unix command that acts like uniq, but accep
 
 The implementation here combines the Pipes library with the StateT monad transformer.
 
+Build with the Haskell stack utility: http://docs.haskellstack.org/en/stable/README/
+
